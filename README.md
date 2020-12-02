@@ -5,9 +5,13 @@ Home: https://rubygems.org/gems/bibtex-ruby
 
 Package license: GPL-3.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rb-bibtex-ruby-feedstock/blob/master/LICENSE.txt)
 
 Summary: BibTeX-Ruby is the Rubyist's swiss-army-knife for all things BibTeX
+
+Development: https://github.com/inukshuk/bibtex-ruby
+
+Documentation: https://www.rubydoc.info/gems/bibtex-ruby
 
 It includes a parser for all common BibTeX objects (@string, @preamble,
 @comment and regular entries) and a sophisticated name parser that tokenizes
