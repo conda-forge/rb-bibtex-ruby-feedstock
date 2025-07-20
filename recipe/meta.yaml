@@ -1,5 +1,5 @@
 {% set name = "bibtex-ruby" %}
-{% set version = "5.1.6" %}
+{% set version = "6.2.0" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-  sha256: 998c1788dbd78a2c85fabf35ac3ced64002eb57445db8a51b5c9e4325217b029
+  sha256: d610eba78d6adf503a843daf144644449fb34e7c3f4a75e9ab67fae5dfd7c69a
 
 build:
   noarch: generic
